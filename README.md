@@ -1,7 +1,13 @@
+
+tricks to allow easymotion recognize Chinese chars
+
+e.g. `<plug>(easymotion-s)` + `w` would match `我` `握` etc
+
 # How to use
 
 ```
 Plug 'easymotion/vim-easymotion'
+
 " must after easymotion plugin
 Plug 'ZSaberLv0/vim-easymotion-chs'
 ```
