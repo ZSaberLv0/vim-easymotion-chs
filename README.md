@@ -12,6 +12,10 @@ Plug 'easymotion/vim-easymotion'
 Plug 'ZSaberLv0/vim-easymotion-chs'
 ```
 
+NOTE:
+
+not work for `<Plug>(easymotion-s2)` series, see #1
+
 see also:
 
 `:h g:EasyMotion_use_migemo`
