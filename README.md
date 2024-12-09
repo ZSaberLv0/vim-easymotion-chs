@@ -14,8 +14,7 @@ Plug 'ZSaberLv0/vim-easymotion-chs'
 
 NOTE:
 
-not work for `<Plug>(easymotion-s2)` series,
-[see here](https://github.com/ZSaberLv0/vim-easymotion-chs/issues/1)
+not work for `<Plug>(easymotion-s2)` series
 
 see also:
 
